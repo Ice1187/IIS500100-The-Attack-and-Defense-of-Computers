@@ -1,0 +1,8 @@
+[<] Phase 1
+b'GOOD LUCK:\nWhat do you want to tell me:\n'
+[<] Phase 2
+b'You say: AAAAAAAAAAAA\x0c\xb0\xce\xfa\xef\xbe\xad\xdeDDDD\n,H*a|\x12\x02\nHello hacker, now guess the password.\nA good hacker always 100% guess right :P, are you a good hacker?\npassword:'
+[<] Shell
+b'Here is your shell!\n'
+[<] Flag
+b'BreakALLCTF{apFGcJ7XRCfXhsdu5VZl}'
