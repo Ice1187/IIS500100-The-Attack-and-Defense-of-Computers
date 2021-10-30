@@ -20,5 +20,9 @@ Flag: `easyctf{aaA_tOucH_0f_luccK_47ca4e}`
 
 Flag: `easyctf{y0u_added_thr33_nums!}`
 
-### 
+### blade
+
+`strings` the binary and find the password is `to_say_something`.
+
+Flag: `inctfj{all_these_moments_lost_in_time}`
 
