@@ -5,6 +5,7 @@ The solved challenges:
 - basic
  - [x] LuckeyGuess
  - [x] adder
+ - [x] blade 
 - re-ctf2020
  - [x] LV0: strace
  - [x] LV0: hexable
